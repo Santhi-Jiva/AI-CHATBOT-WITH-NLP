@@ -42,4 +42,6 @@ This project involves building a simple rule-based or NLP-powered chatbot using 
 
 OUTPUT
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/513a1832-d203-4e52-9aad-8cb7de096f4c" />
+
 
